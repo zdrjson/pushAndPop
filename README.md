@@ -1,2 +1,1 @@
-# -pushAndPop-
-花瓣pushAndPop转场
+The push and pop translation of the app which is called '花瓣'
